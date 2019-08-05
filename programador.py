@@ -1,4 +1,5 @@
 #Rieconhece a voz e escreve os comandos em um arquivo 
+# teste no Gitkraken
 import speech_recognition as sr
 import subprocess 
 
