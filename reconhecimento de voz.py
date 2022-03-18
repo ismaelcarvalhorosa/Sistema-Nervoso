@@ -36,3 +36,6 @@ while True:
             #link = resposta.()
             link = 'http://www.' + resposta + '.com'
             subprocess.Popen(['xdg-open', resposta])
+            
+            
+            # fadsfadsf
